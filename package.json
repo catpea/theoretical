@@ -1,0 +1,23 @@
+{
+  "name": "theoretical",
+  "version": "1.0.0",
+  "description": "Visual Programming Web Components",
+  "main": "index.js",
+  "scripts": {
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;",
+    "test": "test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "repository": {
+  "type": "git",
+  "url": "git+ssh://git@github.com/catpea/theoretical.git"
+},
+"bugs": {
+  "url": "https://github.com/catpea/theoretical/issues"
+},
+"homepage": "https://github.com/catpea/theoretical#readme"
+
+}
