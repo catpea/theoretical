@@ -1,6 +1,6 @@
 {
   "name": "theoretical",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Visual Programming Web Components",
   "main": "index.js",
   "scripts": {
@@ -10,14 +10,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "repository": {
-  "type": "git",
-  "url": "git+ssh://git@github.com/catpea/theoretical.git"
-},
-"bugs": {
-  "url": "https://github.com/catpea/theoretical/issues"
-},
-"homepage": "https://github.com/catpea/theoretical#readme"
-
+    "type": "git",
+    "url": "git+ssh://git@github.com/catpea/theoretical.git"
+  },
+  "bugs": {
+    "url": "https://github.com/catpea/theoretical/issues"
+  },
+  "homepage": "https://github.com/catpea/theoretical#readme"
 }
